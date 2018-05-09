@@ -27,7 +27,7 @@ public class BoardDAO {
 	String sql;
 
 	public BoardDAO() {
-
+///난쯔위라고해
 		// TODO Auto-generated constructor stub
 
 		try {
